@@ -38,6 +38,8 @@ while otv == 'да':
         #sdfsdfasfaadswwwwwwwwwwwwwwwwwwwwwwww
 
 
+#asdasdasd\\\
+
 
 
 
