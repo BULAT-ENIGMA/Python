@@ -35,6 +35,8 @@ while otv == 'да':
     else:
         print('До скорой встречи!')
 
+        #sdfsdfasfaadswwwwwwwwwwwwwwwwwwwwwwww
+
 
 
 
